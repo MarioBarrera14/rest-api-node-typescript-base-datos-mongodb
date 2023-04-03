@@ -14,4 +14,4 @@
 
 **server.ts** *es la clase de inicio de nuestra aplicación.*
 
-*Como te lo mencione anteriormente estaremos usando MongoDB Atlas que prácticamente es un servicio que te permite tener tu servidor de mongodb en la nube(te permite poder probarlo gratis) así que deberás crear una cuenta MongoDB Atlas una vez registrado lo único que debes hacer es crear un cluster y con esto podrás obtener los datos para poder conectarte al servidor de mongodb, para este ejemplo yo cree el cluster con el nombre por defecto que es Cluster0 y cree una base de datos llamada api-db*
+*Como mencione anteriormente estamos usando MongoDB Atlas que prácticamente es un servicio que te permite tener tu servidor de mongodb en la nube(te permite poder probarlo gratis) así que deberás crear una cuenta MongoDB Atlas una vez registrado lo único que debes hacer es crear un cluster y con esto podrás obtener los datos para poder conectarte al servidor de mongodb, para este ejemplo yo cree el cluster con el nombre por defecto que es @cluster0 y cree una base de datos llamada mario22*
